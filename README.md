@@ -1,4 +1,4 @@
-# Đồ án 2: 
+# Đồ án 2
 
 Hệ thống kết nối với camera, xử lý ảnh và đo đạc kích thước vật thể.
 
