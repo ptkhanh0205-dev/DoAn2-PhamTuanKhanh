@@ -4,7 +4,7 @@ Hệ thống kết nối với camera, xử lý ảnh và đo đạc kích thư�
 
 ## Thông tin
 
-- **Sinh viên thực hiện:** Phạm Tuấn Khánh, MSSV: [MSSV]
+- **Sinh viên thực hiện:** Phạm Tuấn Khanh, MSSV: 23520723
 - **Giảng viên hướng dẫn:** Thầy Trần Quang Nguyên 
 - **Người hỗ trợ:** Anh Mạnh Bảo
 - **Học kỳ:** kì 1 - năm 2026
