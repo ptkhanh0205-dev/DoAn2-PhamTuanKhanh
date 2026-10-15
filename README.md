@@ -26,5 +26,5 @@ Hệ thống kết nối với camera, xử lý ảnh và đo đạc kích thư�
 ## Tiến độ
 
 - [x] Tuần 1: trao đổi về cách báo cáo và công việc tuần sau
-- [ ] Tuần 2: [Công việc]
+- [x] Tuần 2: Báo cáo về cách kết nối camera
 - [ ] Tuần 3: [Công việc]
