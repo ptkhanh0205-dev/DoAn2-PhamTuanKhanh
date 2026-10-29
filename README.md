@@ -28,5 +28,6 @@ Hệ thống kết nối với camera, xử lý ảnh và đo đạc kích thư�
 - [x] Tuần 1: trao đổi về cách báo cáo và công việc tuần sau.
 - [x] Tuần 2: Báo cáo về cách kết nối camera.
 - [x] Tuần 3: Báo cáo và chạy thử quy trình xử lý 1 ảnh.
+- [x] Tuần 4: Báo cáo về phương pháp và phương trình đo.
 
 
